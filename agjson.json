@@ -1,14 +1,72 @@
-angular.module("School".[])
-{
-    "firstName": "Duke",
-    "lastName": "Java",
-    "age": 18,
-    "streetAddress": "100 Internet Dr",
-    "city": "JavaTown",
-    "state": "JA",
-    "postalCode": "12345",
-    "phoneNumbers": [
-       { "Mobile": "111-111-1111" },
-       { "Home": "222-222-2222" }
-    ]
- }
+[{
+   "id":106,
+   "name":"Anna",
+   "doj":"2016-10-05",
+   "exp": " ",
+   "gender":"Male",
+   "salary":50000.779,
+   "bonus":1000.776
+   },
+   {
+      "id":104,
+      "name":"Sona",
+   "doj":"2013-06-06",
+   "exp": " ",
+   "gender":"Female",
+   "salary":80000.889,
+   "bonus":900.776
+},
+   {
+      "id":102,
+      "name":"Archana",
+   "doj":"2012-08-19",
+   "exp": " ",
+   "gender":"Male",
+   "salary":70000.778,
+   "bonus":500.776
+   },
+   {
+      "id":100,
+      "name":"Ashitha",
+      "doj":"2000-21-08",
+      "gender":"Female",
+      "salary":100000.778,
+      "bonus":3000.776
+   },
+   {
+      "id":103,
+      "name":"Ravi",
+      "doj":"2006-11-06",
+      "exp": " ",
+      "gender":"Male",
+      "salary":120000.667,
+      "bonus":1000.776
+   },
+   {
+      "id":107,
+      "name":"Aleena",
+      "doj":"2005-21-05",
+      "exp": " ",
+      "gender":"Female",
+      "salary":80000.776,
+      "bonus":800.776
+   },
+   {
+      "id":105,
+   "name":"Arathi",
+   "doj":"2016-10-06",
+   "exp": " ",
+   "gender":"Female",
+   "salary":40000.776,
+   "bonus":700.776
+},
+   {
+      "id":101,
+      "name":"Ria",
+   "doj":"2018-21-11",
+   "exp": " ",
+   "gender":"Female",
+   "salary":35000.776,
+   "bonus":1500.776
+}
+   ]
